@@ -1,0 +1,2 @@
+include ':app', ':implictintent'
+rootProject.name='My Application'
